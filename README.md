@@ -1,9 +1,8 @@
 # SOFC_DCGANs
 
----
-##DCGANs-Based SOFC Synthetic Data Generation Method
+## DCGANs-Based SOFC Synthetic Data Generation Method
 
-##abstract
+## abstract
 
 Solid Oxide Fuel Cell(SOFC) is attracting attention as a next-generation fuel cell for its eco-friendliness and efficiency.
 However, surface defects may occur during manufacturing, leading to poor quality and material failure. Deep learning has
